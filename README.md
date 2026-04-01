@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Lyndon 👋
 
-<!--
-**lyndon-enero/LYNDON-ENERO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Front-End Developer  
+🌍 Based in the Philippines  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Portfolio Website (coming soon)
+- To-Do App (coming soon)
+
+## 📫 Contact Me
+- Email: donlynenero@gmail.com

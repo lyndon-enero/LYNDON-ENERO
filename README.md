@@ -14,8 +14,8 @@ https://lyndon-enero.github.io/
 - MySQL
 
 ## 📂 Projects
-- Portfolio Website (coming soon)
-- To-Do App (coming soon)
+- Portfolio Website - https://lyndon-enero.github.io/
+- 1st Project - NotiGuide for Maritime Navigation - https://lyndon-enero.github.io/notiguide/
 
 ## 📫 Contact Me
 - Email: donlynenero@gmail.com

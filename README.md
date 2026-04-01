@@ -2,6 +2,7 @@
 
 💻 Aspiring Front-End Developer  
 🌍 Based in the Philippines  
+![Lyndon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ## 🚀 Skills
 ![HTML](https://img.shields.io/badge/HTML-orange)

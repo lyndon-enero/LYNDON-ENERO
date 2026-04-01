@@ -2,12 +2,8 @@
 
 💻 Aspiring Front-End Developer  
 🌍 Based in the Philippines  
-![Lyndon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyndon-enero&show_icons=true)
 
 ## 🚀 Skills
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - HTML
 - CSS
 - JavaScript
